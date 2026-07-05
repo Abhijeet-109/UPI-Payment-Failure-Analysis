@@ -122,6 +122,30 @@ UPI processes over 18 billion transactions monthly in India. Even a 6% failure r
 
 ---
 
+## Dashboard Preview
+
+
+**Page 1 — Executive Summary**
+![Page 1 Executive Summary](Screenshots/Page%201%20Executive%20Summary.png)
+
+**Page 2 — Bank Analysis**
+![Page 2 Bank Analysis](Screenshots/Page%202%20Bank%20Analysis.png)
+
+**Page 3 — Time Analysis**
+![Page 3 Time Analysis](Screenshots/Page%203%20Time%20Analysis.png)
+
+**Page 4 — State Analysis**
+![Page 4 State Analysis](Screenshots/Page%204%20State%20Analysis.png)
+
+**Page 5 — Transaction & Merchant Analysis**
+![Page 5 Transaction & Merchant Analysis](Screenshots/Page%205%20Transaction%20%26%20Merchant%20Analysis.png)
+
+**Page 6 — NPCI Benchmark**
+![Page 6 NPCI Benchmark](Screenshots/Page%206%20NPCI%20Benchmark.png)
+
+---
+
+
 ## SQL Analysis — 12 Scripts
 
 | File | Purpose |
