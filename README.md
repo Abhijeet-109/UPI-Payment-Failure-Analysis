@@ -190,22 +190,20 @@ UPI-Payment-Failure-Analysis/
 │   ├── 11_Views.sql
 │   └── 12_Final_business_insights.sql
 │
-├── Python/
-│   ├── Data Preprocessing.ipynb
-│   ├── EDA.ipynb
-│   └── Plots/
-│       ├── plot_01_status_distribution.png
-│       ├── plot_02_bank_failure_rate.png
-│       ├── plot_03_hourly_failure_rate.png
-│       ├── plot_04_day_failure_rate.png
-│       ├── plot_05_state_failure_rate.png
-│       ├── plot_06_amount_distribution.png
-│       ├── plot_07_merchant_failure_rate.png
-│       ├── plot_08_transaction_type_failure.png
-│       ├── plot_09_age_group_failure.png
-│       └── plot_10_day_hour_heatmap.png
-│
-└── Documentation/
+└── Python/
+   ├── Data Preprocessing.ipynb
+   ├── EDA.ipynb
+   └── Plots/
+       ├── plot_01_status_distribution.png
+       ├── plot_02_bank_failure_rate.png
+       ├── plot_03_hourly_failure_rate.png
+       ├── plot_04_day_failure_rate.png
+       ├── plot_05_state_failure_rate.png
+       ├── plot_06_amount_distribution.png
+       ├── plot_07_merchant_failure_rate.png
+       ├── plot_08_transaction_type_failure.png
+       ├── plot_09_age_group_failure.png
+       └── plot_10_day_hour_heatmap.png
 ```
 
 ---
