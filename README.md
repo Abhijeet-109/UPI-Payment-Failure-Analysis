@@ -171,14 +171,10 @@ UPI-Payment-Failure-Analysis/
 ├── Datasets/
 │   ├── Kaggle/
 │   │   └── Cleaned/
-│   │       ├── df1_cleaned.csv
-│   │       ├── df2_cleaned.csv
-│   │       └── merged_upi_transactions.csv
+│   │        └── Datasets.zip
 │   └── NPCI/
-│       ├── Ecosystem Stats/
-│       │   └── NPCI-Ecosystem-Stats-Master_workbook.xlsx
-│       └── Product Stats/
-│           └── NPCI-Product-Stats-Master_workbook.xlsx
+│        ├── NPCI-Ecosystem-Stats-Master_workbook.xlsx
+│        └── NPCI-Product-Stats-Master_workbook.xlsx
 │
 ├── MySQL/
 │   ├── 1_Data_Loading.sql
